@@ -1,0 +1,20 @@
+[
+  {
+    "quote": "Deepak is a highly skilled developer who delivered our project on time with excellent quality.",
+    "author": "Pankaj Baranwal",
+    "position": "Project Manager, HFCL",
+    "rating": 5
+  },
+  {
+    "quote": "Professional, reliable, and great communication throughout the development process.",
+    "author": "Arvind Chaurasiya ",
+    "position": "Senior Developer, HFCL",
+    "rating": 4
+  },
+  {
+    "quote": "Deepak's expertise in web development helped us achieve our goals efficiently.",
+    "author": "",
+    "position": "",
+    "rating": 5
+  }
+]

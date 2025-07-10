@@ -1,0 +1,20 @@
+[
+  {
+    "title": "How to Improve Your Web Development Skills",
+    "description": "Tips and resources to help you become a better web developer.",
+    "fullContent": "In this article, we explore various tips and resources that can help you improve your web development skills, including practicing coding regularly, learning new frameworks, and contributing to open source projects.",
+    "link": "#"
+  },
+  {
+    "title": "Understanding JavaScript Closures",
+    "description": "A deep dive into closures and how to use them effectively.",
+    "fullContent": "JavaScript closures are a fundamental concept that allows functions to access variables from an outer function scope even after the outer function has returned. This article explains closures with examples and practical use cases.",
+    "link": "#"
+  },
+  {
+    "title": "CSS Grid vs Flexbox: When to Use Which",
+    "description": "Comparing CSS Grid and Flexbox for layout design.",
+    "fullContent": "CSS Grid and Flexbox are powerful layout modules in CSS. This article compares their features, use cases, and how to decide which one to use for your web layouts.",
+    "link": "#"
+  }
+]
