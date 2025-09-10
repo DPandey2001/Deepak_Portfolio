@@ -422,7 +422,7 @@ document.addEventListener('DOMContentLoaded', function() {
       e.preventDefault();
       downloadResume();
     });
-  }
+  } 
 
   // Initialize Bootstrap components
   const tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
