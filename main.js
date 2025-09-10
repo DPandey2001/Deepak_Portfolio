@@ -408,8 +408,8 @@ window.addEventListener('scroll', revealOnScroll);
 
 function downloadResume() {
   const link = document.createElement('a');
-  link.href = 'DeepakPandeyRes.pdf';
-  link.download = 'DeepakPandeyRes.pdf';
+  link.href = 'deepakResume1307.pdf';
+  link.download = 'deepakResume1307.pdf';
   document.body.appendChild(link);
   link.click();
   document.body.removeChild(link);
