@@ -29,9 +29,9 @@ function updateThemeIcon(theme) {
 const typedText = document.getElementById('typed-text');
 const textArray = [
   'Web Developer',
+  'Data Analyst',
   'UI/UX Enthusiast',
-  'Problem Solver',
-  'Creative Thinker'
+  'Problem Solver'
 ];
 
 let textIndex = 0;
